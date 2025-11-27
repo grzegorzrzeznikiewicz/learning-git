@@ -1,0 +1,13 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    padding-left: 100px;
+}
+.container h1 {
+    flex: 1;
+    margin-left: 80px;
+}
+.container p {
+    flex: 1;
+    white-space: pre-wrap;
+}
