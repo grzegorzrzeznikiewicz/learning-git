@@ -1,0 +1,2 @@
+Uruchamianie walidacji pliku index.html
+npx html-validate index.html
